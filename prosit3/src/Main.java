@@ -38,7 +38,7 @@ public class Main {
 
 
 
-        // Supprimer un animal
+       
         System.out.println("\nSuppression de Tigrou : " + myZoo.removeAnimal(tiger));
         myZoo.displayAnimals();
         sc.close();
